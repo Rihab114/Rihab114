@@ -31,6 +31,6 @@
 ### &nbsp;Reach Me Via
 
 <a href="mailto:rihabghrab7@gmail.com"><img src="https://img.shields.io/badge/-rihabghrab7@gmail.com-000?&logo=Gmail"/></a>
-<a href="linkedin.com/in/rihab-ghrab-1382691b6/"><img src="https://img.shields.io/badge/-Rihab%20Ghrab-000?&logo=Linkedin"/></a>
+<a href="linkedin.com/in/rihab-ghrab-1382691b6"><img src="https://img.shields.io/badge/-Rihab%20Ghrab-000?&logo=Linkedin"/></a>
 
 
