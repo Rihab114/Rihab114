@@ -30,7 +30,7 @@
 
 ### &nbsp;Reach Me Via
 
-<a href="mailto:rihab.ghrab@supcom.com"><img src="https://img.shields.io/badge/-rihab.ghrab@supcom.com-000?&logo=Gmail"/></a>
+<a href="mailto:rihab.ghrab@supcom.tn"><img src="https://img.shields.io/badge/-rihab.ghrab@supcom.tn-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/rihab-ghrab-1382691b6/"><img src="https://img.shields.io/badge/-Rihab%20Ghrab-000?&logo=Linkedin"/></a>
 
 
