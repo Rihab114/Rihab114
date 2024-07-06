@@ -4,10 +4,6 @@
 ### &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop new solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying ICT at Higher school of communication of Tunis.\
-🌱 &nbsp;I'm on track for learning Artificial Intelligence, Computer vision and Internet of things.\
-😍 &nbsp;In my free time, I pursue Drawing and Blog Reading as hobbies.\
-📄 I'm open to any feedbacks, suggestions and offers!
 
 ### &nbsp;Languages I Use
 
