@@ -11,15 +11,8 @@
 ### &nbsp;Languages I Use
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Rihab114?tab=repositories&q=&type=&language=python)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/Rihab114?tab=repositories&q=&type=&language=js)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### &nbsp;Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Pycharm](https://img.shields.io/badge/-Pycharm-000?style=flat&logo=pycharm&logoColor=ff69b4)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+[![C++](https://img.shields.io/badge/-Javascript-000?&logo=c%2b%2b)](https://github.com/Rihab114?tab=repositories&q=&type=&language=js)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/Rihab114?tab=repositories&q=&type=&language=sql)
 
 
 ### &nbsp;Github Analytics
