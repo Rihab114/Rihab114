@@ -10,7 +10,7 @@
 
 ### &nbsp;Languages I Use
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Rihab114?tab=repositories&q=&type=&language=python)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/Rihab114?tab=repositories&q=&type=&language=js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
