@@ -3,9 +3,9 @@
 
 ### &nbsp;About Me
 
-🪄 &nbsp; Data Engineer | Specializing in scalable data pipelines, cloud integration, and real-time data processing. 
-🍂 &nbsp; Experienced with Python, SQL, Docker, Kafka, Spark, and GCP.
-🔥 &nbsp; Passionate about optimizing workflows and building resilient systems.
+🪄 &nbsp; Data Engineer | Specializing in scalable data pipelines, cloud integration, and real-time data processing. <br /> 
+🍂 &nbsp; Experienced with Python, SQL, Docker, Kafka, Spark, and GCP.<br /> 
+🔥 &nbsp; Passionate about optimizing workflows and building resilient systems.<br /> 
 💡 &nbsp;I like to explore new technologies and develop new solutions and quick hacks.\
 
 ### &nbsp;Languages I Use
