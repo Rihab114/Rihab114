@@ -3,13 +3,15 @@
 
 ### &nbsp;About Me
 
-💡  &nbsp;I like to explore new technologies and develop new solutions and quick hacks.\
+🪄 &nbsp; Data Engineer | Specializing in scalable data pipelines, cloud integration, and real-time data processing. 
+🍂 &nbsp; Experienced with Python, SQL, Docker, Kafka, Spark, and GCP.
+🔥 &nbsp; Passionate about optimizing workflows and building resilient systems.
+💡 &nbsp;I like to explore new technologies and develop new solutions and quick hacks.\
 
 ### &nbsp;Languages I Use
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/Rihab114?tab=repositories&q=&type=&language=js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### &nbsp;Technologies
@@ -26,7 +28,7 @@
 
 ### &nbsp;Reach Me Via
 
-<a href="mailto:rihab.ghrab@supcom.tn"><img src="https://img.shields.io/badge/-rihab.ghrab@supcom.tn-000?&logo=Gmail"/></a>
+<a href="mailto:rihab.ghrab.ing@outlook.com"><img src="https://img.shields.io/badge/-rihab.ghrab.ing@outlook.com-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/rihab-ghrab-1382691b6/"><img src="https://img.shields.io/badge/-Rihab%20Ghrab-000?&logo=Linkedin"/></a>
 
 
